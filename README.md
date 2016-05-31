@@ -36,7 +36,7 @@ Nouvelle version : &nbsp;[BDE-ESEO](https://github.com/Tomn94/BDE-ESEO) &nbsp;·
 
 ## Licence
 
-    Copyright © 2015-2016 Thomas NAUDET
+    Copyright © 2015 Thomas NAUDET
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
