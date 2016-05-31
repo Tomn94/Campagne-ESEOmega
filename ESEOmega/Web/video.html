@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <script>
+      function snapchat()
+      {
+        window.frames[0].window.alert('Ajoutez-nous sur Snapchat et suivez les animations !\n\n@eseomega');
+      }
+    </script>
+    <style>
+      body {
+        text-align: center;
+        font-family: ABeeZee, Candara, 'Segoe UI', Roboto, Arial, sans-serif;
+        background: #CEE7FF linear-gradient(white 0%, #CEE7FF 100%);
+        background-repeat: no-repeat;
+        background-color: #CEE7FF;
+        padding-bottom: 10px;
+      }
+      h1 {
+        font-family: Elektra, ABeeZee, Candara, 'Segoe UI', Roboto, Arial, sans-serif;
+        padding-top: 10px;
+      }
+      .badge {
+        width: 50px;
+        margin: 0px 15px 0px 15px;
+      }
+      body > p {
+        text-align: justify;
+        text-indent: 25px;
+        font-size: 14px;
+      }
+      #video {
+        font-size: 16px;
+        color: #ff0027;
+        width: 301px;
+        height: 170px;
+        background: black linear-gradient(#333 0%, #000 100%);
+        margin: auto;
+      }
+      #video p {
+        padding-top: 63px;
+      }
+      #hack {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        z-index: -10;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe id="hack" src="eseomega" frameborder="0"></iframe>
+    <h1 style="letter-spacing: -1px;">Video de campagne</h1>
+
+    <div id="video"><p>Connectez-vous à Internet<br/>pour voir la vidéo de campagne</p></div>
+    
+    <h1 style="padding-top: 20px;">Suivez-nous !</h1>
+    <p style="text-align: center; text-indent: 0;">
+      <a href="fb://profile/806769696065152"><img src="fb.png" class="badge" /></a>
+      <a href="twitter://user?screen_name=bde_eseomega"><img src="twitter.png" class="badge" /></a>
+      <a onclick="snapchat();"><img src="snapchat.png" class="badge" /></a>
+    </p>
+  </body>
+</html>
