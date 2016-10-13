@@ -6,6 +6,7 @@
 [![Contributors](https://img.shields.io/badge/contributors-Thomas NAUDET-blue.svg)](http://twitter.com/tomn94)
 [![Licence](https://img.shields.io/badge/licence-GNU GPLv3-lightgrey.svg)](http://www.gnu.org/licenses/)
 
+Site de campagne : [Campagne-ESEOmega.fr](https://github.com/Tomn94/Campagne-ESEOmega.fr)<br>
 Nouvelle version : &nbsp;[BDE-ESEO](https://github.com/Tomn94/BDE-ESEO) &nbsp;·&nbsp; [App Store](https://itunes.apple.com/app/apple-store/id966385182?pt=104224803&ct=GitHub&mt=8)
 
 <img src="/Captures App Store/6/1.png?raw=true" height="300" />
