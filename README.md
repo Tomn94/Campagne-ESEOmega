@@ -9,12 +9,8 @@
 Site de campagne : [Campagne-ESEOmega.fr](https://github.com/Tomn94/Campagne-ESEOmega.fr)<br>
 Nouvelle version : &nbsp;[BDE-ESEO](https://github.com/Tomn94/BDE-ESEO) &nbsp;·&nbsp; [App Store](https://itunes.apple.com/app/apple-store/id966385182?pt=104224803&ct=GitHub&mt=8)
 
-<img src="/Captures App Store/6/1.png?raw=true" height="300" />
-<img src="/Captures App Store/6/2 2.png?raw=true" height="300" />
-<img src="/Captures App Store/6/3.png?raw=true" height="300" />
-<img src="/Captures App Store/6/4.png?raw=true" height="300" />
-<img src="/Captures App Store/6/5.png?raw=true" height="300" />
-
+![Preview](Ad.JPG)
+###### Image [François Leparoux](https://github.com/rascafr)
 
 ## Description
 
@@ -58,6 +54,12 @@ Nouvelle version : &nbsp;[BDE-ESEO](https://github.com/Tomn94/BDE-ESEO) &nbsp;·
 > *[Voir la dernière version](https://github.com/Tomn94/BDE-ESEO)*
 
 ###v1.1 · 15/04/2015
+
+<img src="/Captures App Store/6/1.png?raw=true" height="300" />
+<img src="/Captures App Store/6/2 2.png?raw=true" height="300" />
+<img src="/Captures App Store/6/3.png?raw=true" height="300" />
+<img src="/Captures App Store/6/4.png?raw=true" height="300" />
+<img src="/Captures App Store/6/5.png?raw=true" height="300" />
 > Merci à tous !<br>
 > On vous réserve une super année 2015/2016 !
 > 
