@@ -3,8 +3,8 @@
 ![Version](https://img.shields.io/badge/version-1.1-green.svg)
 [![Code](https://img.shields.io/badge/code-Objective--C-orange.svg)](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
 [![Platform](https://img.shields.io/badge/platform-iOS-red.svg)](http://www.apple.com/ios/)
-[![Contributors](https://img.shields.io/badge/contributors-Thomas NAUDET-blue.svg)](http://twitter.com/tomn94)
-[![Licence](https://img.shields.io/badge/licence-GNU GPLv3-lightgrey.svg)](http://www.gnu.org/licenses/)
+[![Contributors](https://img.shields.io/badge/contributors-Thomas%20NAUDET-blue.svg)](http://twitter.com/tomn94)
+[![Licence](https://img.shields.io/badge/licence-GNU%20GPLv3-lightgrey.svg)](http://www.gnu.org/licenses/)
 
 Site de campagne : [Campagne-ESEOmega.fr](https://github.com/Tomn94/Campagne-ESEOmega.fr)<br>
 Nouvelle version : &nbsp;[BDE-ESEO](https://github.com/Tomn94/BDE-ESEO) &nbsp;·&nbsp; [App Store](https://itunes.apple.com/app/apple-store/id966385182?pt=104224803&ct=GitHub&mt=8)
@@ -50,27 +50,24 @@ Nouvelle version : &nbsp;[BDE-ESEO](https://github.com/Tomn94/BDE-ESEO) &nbsp;·
     
     
 ## Versions
-###Actuelle
+### Actuelle
 > *[Voir la dernière version](https://github.com/Tomn94/BDE-ESEO)*
 
-###v1.1 · 15/04/2015
+### v1.1 · 15/04/2015
 
-<img src="/Captures App Store/6/1.png?raw=true" height="300" />
-<img src="/Captures App Store/6/2 2.png?raw=true" height="300" />
-<img src="/Captures App Store/6/3.png?raw=true" height="300" />
-<img src="/Captures App Store/6/4.png?raw=true" height="300" />
-<img src="/Captures App Store/6/5.png?raw=true" height="300" />
-> Merci à tous !<br>
+<img src="/Captures App Store/6/1.png?raw=true" height="300" /><img src="/Captures App Store/6/2 2.png?raw=true" height="300" /><img src="/Captures App Store/6/3.png?raw=true" height="300" /><img src="/Captures App Store/6/4.png?raw=true" height="300" /><img src="/Captures App Store/6/5.png?raw=true" height="300" />
+
+> Merci à tous !\
 > On vous réserve une super année 2015/2016 !
 > 
-> Bientôt des nouveautés, Hermès a livré quelques améliorations pour patienter :<br>
-> › rajout de toutes les vidéos dont l'aftermovie rallye appart !<br>
-> › l'app s'offre une cure de minceur puissance 4<br>
-> › économie également pour votre forfait<br>
-> › Hadès ne vous envoie plus en enfer d'un tap sur Animations, si vous n'aviez pas mis à jour votre iPhone<br>
-> › Rodolphe retrouve son T<br>
-> › correction des crédits<br>
+> Bientôt des nouveautés, Hermès a livré quelques améliorations pour patienter :\
+> › rajout de toutes les vidéos dont l'aftermovie rallye appart !\
+> › l'app s'offre une cure de minceur puissance 4\
+> › économie également pour votre forfait\
+> › Hadès ne vous envoie plus en enfer d'un tap sur Animations, si vous n'aviez pas mis à jour votre iPhone\
+> › Rodolphe retrouve son T\
+> › correction des crédits\
 > Nous remercions tous nos sponsors !
 
-###v1.0 · 29/03/2015
+### v1.0 · 29/03/2015
 > *Publication originale pour la campagne ESEOmega*
