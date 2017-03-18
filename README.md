@@ -55,7 +55,7 @@ Nouvelle version : &nbsp;[BDE-ESEO](https://github.com/Tomn94/BDE-ESEO) &nbsp;·
 
 ### v1.1 · 15/04/2015
 
-<img src="/Captures App Store/6/1.png?raw=true" height="300" /><img src="/Captures App Store/6/2 2.png?raw=true" height="300" /><img src="/Captures App Store/6/3.png?raw=true" height="300" /><img src="/Captures App Store/6/4.png?raw=true" height="300" /><img src="/Captures App Store/6/5.png?raw=true" height="300" />
+<img src="/Captures App Store/6/1.png?raw=true" height="300" /> <img src="/Captures App Store/6/2 2.png?raw=true" height="300" /> <img src="/Captures App Store/6/3.png?raw=true" height="300" /> <img src="/Captures App Store/6/4.png?raw=true" height="300" /> <img src="/Captures App Store/6/5.png?raw=true" height="300" />
 
 > Merci à tous !\
 > On vous réserve une super année 2015/2016 !
